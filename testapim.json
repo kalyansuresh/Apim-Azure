@@ -37,6 +37,7 @@
         "Developer",
         "Standard",
         "Premium"
+        "consumption"
         ],
         "metadata": {
         "description": "The pricing tier of this API Management service"
