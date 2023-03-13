@@ -16,7 +16,7 @@ steps:
 - task: PublishBuildArtifacts@1
   inputs:
     PathtoPublish: '$(Build.ArtifactStagingDirectory)'
-    ArtifactName: 'kalyan'
+    ArtifactName: 'drop'
     publishLocation: 'Container'
 - script: |
     echo Add other tasks to build, test, and deploy your project.
